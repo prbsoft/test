@@ -1,19 +1,23 @@
-# Разработка
+# Initial page
 
-  
-Конфигуратор \(все свойства в конфигураторе\).
+## Getting Super Powers
 
-Объекты UNA.
+Becoming a super hero is a fairly straight forward process:
 
-Объекты ORACLE \(стандартные пакеты, объекты, пакеты UNA, таблицы UNA\).
+```
+$ give me super-powers
+```
 
-startup.ini
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
 
-Баги
+Once you're strong enough, save the world:
 
-Новости
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
 
-History
 
-Глобальные настройки
 
